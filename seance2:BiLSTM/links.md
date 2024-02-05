@@ -21,6 +21,9 @@ https://proceedings.neurips.cc/paper_files/paper/2018/file/e44fea3bec53bcea3b751
 6 couresra: LSTM / BLSTM ng Andrew:
 https://www.coursera.org/lecture/nlp-sequence-models/bidirectional-rnn-fyXnn
 
+7 Handwriting Recognition using CRNN in Keras
+https://www.kaggle.com/code/hjaiejmohamed/handwriting-recognition-using-crnn-in-keras/edit
+
 Database:
 Database and Evaluation Protocols for Arabic Printed Text Recognition
 https://diuf.unifr.ch/main/diva/APTI/download/InternalRepport.pdf
