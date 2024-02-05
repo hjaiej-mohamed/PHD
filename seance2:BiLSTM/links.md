@@ -17,3 +17,7 @@ https://arxiv.org/pdf/2109.10282v5.pdf
 5.Connectionist Temporal Classification with Maximum Entropy Regularization:
 
 https://proceedings.neurips.cc/paper_files/paper/2018/file/e44fea3bec53bcea3b7513ccef5857ac-Paper.pdf
+
+Database:
+Database and Evaluation Protocols for Arabic Printed Text Recognition
+https://diuf.unifr.ch/main/diva/APTI/download/InternalRepport.pdf
